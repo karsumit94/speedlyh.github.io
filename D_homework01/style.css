@@ -1,0 +1,30 @@
+body{
+margin: 0;
+}
+
+
+.container{
+    display: -webkit-flexl;
+    display:flex;
+    height: 400px;
+    background-color: #f2eeeb;
+}
+.logo {
+    margin: auto;
+}
+
+.logo img{
+    margin-top: 70px;
+width:100px;
+}
+.text {
+    margin-top: 50px;
+font-family: 'Open Sans', sans-serif;
+            letter-spacing: -1px;
+            line-height: 0.4;
+            text-align: justify;
+            font-size: 8px;
+            color: red;
+    text-align: center;
+}
+

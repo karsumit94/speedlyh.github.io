@@ -1,0 +1,58 @@
+
+
+/**
+*레이아웃을 구성하는 방법 3가지
+*display : flex
+*float를 사용하는 방법
+*position속성을 사용하는 방법
+*
+**/
+/**
+
+div{float: left;
+width:300px;
+    margin: 10px;
+    margin: 10px 10px 10px 10px;
+    padding: 10px;
+    border:1px solid #efefef;
+border-width: 1px 1px 4px 1px;}
+img{
+ width:100%;
+}
+
+   /* flex */
+/*
+body{
+
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: flex;
+    margin: 0px;
+    flex-wrap: wrap; /*내리는거 */
+
+}
+/*
+div{
+flex: 1;
+    margin:10px 10px 10px 10px;
+    max-width:  400px;
+    min-width: 200px;
+
+img{
+width:100%;
+}
+ */
+
+body{
+margin-top:1000px;
+}
+
+.a
+{position: absolute;
+    left: 100px;
+    top: 10px;
+    right: 100px;
+}
+img{
+width:100%;
+}
