@@ -1,2 +1,0 @@
-# yohan-Lee
-designer
